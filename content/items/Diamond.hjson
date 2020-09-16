@@ -1,2 +1,6 @@
-type: resource
+type: material
+name: Diamond
+description: A rare resource.
 hardness: 5
+cost: 5
+color: ffffff
